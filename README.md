@@ -3,7 +3,8 @@
 This project is a simple web-based task manager application that allows users to create, delete, and organize tasks. The tasks are saved on the local machine using the browser's localStorage API. The project is built using ReactJS, a popular JavaScript library for creating user interfaces.
 
 <div style="width:60px ; height:60px">
-![Sample Image](/src/assets/snippet1.png?raw=true "Sample Image")
+![snippet1](https://github.com/gecille87/simple-task-manager/assets/48266598/72e14007-e8f2-4cae-b258-0d3422b316f7)
+
 <div>
 
 ## Features
